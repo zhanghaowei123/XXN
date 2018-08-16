@@ -1,0 +1,165 @@
+*{
+	margin: 0;
+	padding:0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.clear:after{
+	content: "";
+	height: 0;
+	display: block;
+	clear: both;
+}
+.a{
+	width: 1200px;
+	margin: 0 auto;
+}
+.b{
+	height: 685px;
+	background:url(../images/1.png) no-repeat center top;
+}
+.a1{
+	font-size: 56px;
+	font-family: '华文行楷';
+	color: blue;
+	text-align: center;
+}
+.b .b1{
+	font-family: '华文行楷';
+	font-size: 23px;
+	color: red;
+	padding-left:15px;
+	padding-top: 50px;
+	float: left;
+}
+.b2{
+	float: right;
+	font-family: '华文行楷';
+	font-size: 23px;
+	color: purple;
+	padding-right: 15px;
+	padding-top: 50px;
+}
+.c img{
+	float: left;
+}
+.c1{
+	font-family: '华文行楷';
+	font-size: 30px;
+	color: #d8823e;
+}
+.c2{
+	font-size: 40px;
+	color: #e06e9f;
+	text-align: center;
+}
+.c3{
+	text-align: left;
+	padding-right: 0px;
+	padding-top: 185px;
+	font-family: '华文行楷';
+	font-size: 30px;
+	color: #e06e9f;
+}
+.d1{
+	text-align: center;
+	font-size: 40px;
+	color: #204476;
+}
+.d2{
+	font-family: '华文行楷';
+	font-size: 30px;
+	color: #204476;
+}
+.e1{
+	text-align: center;
+	font-size: 40px;
+	color: #63dec5;
+}
+.e2{
+	font-family: '华文行楷';
+	font-size: 30px;
+	color: #63dec5;
+}
+.f1{
+	text-align: center;
+	font-size: 40px;
+	color: #c2c2c2;
+}
+.f2{
+	font-family: '华文行楷';
+	font-size: 30px;
+	color:#c2c2c2;
+}
+.g1{
+	text-align: center;
+	font-size: 40px;
+}
+.g11{
+	color: #d6a841;
+}
+.g12{
+	color: #3da742;
+}
+.g2{
+	font-family: '华文行楷';
+	font-size: 30px;
+	color: #3da742;
+}
+.g3{
+	font-family: '华文行楷';
+	font-size: 30px;
+	color: #d6a841;
+	padding-top: 220px;
+}
+.j1{
+	text-align: center;
+	font-size: 40px;
+	color: #635c53;
+}
+.j2{
+	font-family: '华文行楷';
+	font-size: 30px;
+	color: #635c53;
+}
+.j2 span{
+	color: #635c53;
+	font-family: '微软雅黑';
+}
+.k1{
+	text-align: center;
+	font-size: 40px;
+	color: #d92142;
+}
+.k2{
+	font-family: '华文行楷';
+	font-size: 30px;
+	color: #d92142;
+}
+.l img{
+	position: relative;
+}
+.l1{
+	position: absolute;
+	font-size: 70px;
+	font-weight: bolder;
+	font-family: "华文行楷";
+	color: black;
+	top: 12000px;
+	right: 200px;
+}
+.l2{
+	font-family: '华文行楷';
+	font-size: 30px;
+	color: #f3a602;
+}
+.lll{
+	float: right;
+	margin-top: 500px;
+	color: #d92142;
+	font-size: 50px;
+}
